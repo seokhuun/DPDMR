@@ -1,12 +1,11 @@
 # DPDMR
 Disentangled Prototype-guided Dynamic Memory Replay for Continual Learning in Acoustic Signal Classification
 
-
 ## Contributing
 
 If you find this work useful, consider citing our work using the following bibTeX:
 
-bibtex
+```bibtex
 @article{choi2024dpdmr,
   title={Disentangled Prototype-guided Dynamic Memory Replay for Continual Learning in Acoustic Signal Classification},
   author={Seok-Hun Choi and Seok-Jun Buu},
