@@ -7,5 +7,5 @@ authors:
   - family-names: "Buu"
     given-names: "Seok-Jun"
 year: 2024
-doi: "10.xxxx/your-doi"  # DOI가 있다면 추가하세요.
-url: "https://github.com/seokhuun/DPPDMR"  # 레포지토리 URL
+doi: "10.1109/ACCESS.2024.3482105"
+url: "https://github.com/seokhuun/DPPDMR"  
