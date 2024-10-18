@@ -3,7 +3,8 @@
 [**Read the Paper on IEEE Xplore**](https://ieeexplore.ieee.org/document/10719982)
 
 ## Overview
-Disentangled Prototype-guided Dynamic Memory Replay (DPDMR) is a novel approach to enhance continual learning in acoustic signal classification, addressing challenges of memory replay and prototype representation.
+Disentangled Prototype-guided Dynamic Memory Replay (DPDMR) enhances memory replay for continual learning in acoustic signal classification by prioritizing complex and informative samples. Through disentangled representation learning, DPDMR constructs prototypes that improve memory efficiency and mitigate catastrophic forgetting, resulting in superior performance even under limited memory conditions.
+
 
 ## Citation
 If you find this work useful, please consider citing it with the following bibTeX entry:
