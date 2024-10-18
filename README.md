@@ -1,4 +1,4 @@
-# DPDMR
+# [DPDMR](https://ieeexplore.ieee.org/document/10719982)
 Disentangled Prototype-guided Dynamic Memory Replay for Continual Learning in Acoustic Signal Classification
 
 ## Contributing
