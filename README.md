@@ -11,5 +11,5 @@ If you find this work useful, consider citing our work using the following bibTe
   author={Seok-Hun Choi and Seok-Jun Buu},
   journal={IEEE Access},
   year={2024},
-  doi={10.xxxx/your-doi}
+  doi={10.1109/ACCESS.2024.3482105}
 }
